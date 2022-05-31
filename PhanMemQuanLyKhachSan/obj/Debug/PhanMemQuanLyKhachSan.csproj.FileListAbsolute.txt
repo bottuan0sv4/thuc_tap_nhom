@@ -120,3 +120,6 @@ D:\Workplace\VStudio\TT_Nhom\phan-mem-quan-ly-khach-san\PhanMemQuanLyKhachSan\ob
 D:\Workplace\VStudio\TT_Nhom\phan-mem-quan-ly-khach-san\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.CopyComplete
 D:\Workplace\VStudio\TT_Nhom\phan-mem-quan-ly-khach-san\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
 D:\Workplace\VStudio\TT_Nhom\phan-mem-quan-ly-khach-san\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
+D:\Workplace\VStudio\TT_Nhom\thuc_tap_nhom\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\Workplace\VStudio\TT_Nhom\thuc_tap_nhom\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.exe
+D:\Workplace\VStudio\TT_Nhom\thuc_tap_nhom\PhanMemQuanLyKhachSan\obj\Debug\PhanMemQuanLyKhachSan.pdb
